@@ -1,0 +1,11 @@
+C:\Users\Josh\Documents\C-Sharp\Programs2\bin\Debug\netcoreapp2.1\Programs2.deps.json
+C:\Users\Josh\Documents\C-Sharp\Programs2\bin\Debug\netcoreapp2.1\Programs2.runtimeconfig.json
+C:\Users\Josh\Documents\C-Sharp\Programs2\bin\Debug\netcoreapp2.1\Programs2.runtimeconfig.dev.json
+C:\Users\Josh\Documents\C-Sharp\Programs2\bin\Debug\netcoreapp2.1\Programs2.dll
+C:\Users\Josh\Documents\C-Sharp\Programs2\bin\Debug\netcoreapp2.1\Programs2.pdb
+C:\Users\Josh\Documents\C-Sharp\Programs2\obj\Debug\netcoreapp2.1\Programs2.csprojAssemblyReference.cache
+C:\Users\Josh\Documents\C-Sharp\Programs2\obj\Debug\netcoreapp2.1\Programs2.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Documents\C-Sharp\Programs2\obj\Debug\netcoreapp2.1\Programs2.AssemblyInfoInputs.cache
+C:\Users\Josh\Documents\C-Sharp\Programs2\obj\Debug\netcoreapp2.1\Programs2.AssemblyInfo.cs
+C:\Users\Josh\Documents\C-Sharp\Programs2\obj\Debug\netcoreapp2.1\Programs2.dll
+C:\Users\Josh\Documents\C-Sharp\Programs2\obj\Debug\netcoreapp2.1\Programs2.pdb
