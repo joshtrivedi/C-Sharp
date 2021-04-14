@@ -5,3 +5,5 @@ Repository for C# codes
 Homework task to implement certain functions
 ### 2. Programs2
 Day two of Homework tasks
+### 3. RegisterForm
+Task to create a registration page using HTML Server Control
